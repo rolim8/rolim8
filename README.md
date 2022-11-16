@@ -16,5 +16,5 @@
 <b>MINHAS LINGUAGENS:<b>
 <div align="left">
   <a href="https://github.com/rolim8">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolim8&layout=compact&langs_count=7&theme=dracula"/>
 </div>
