@@ -21,7 +21,7 @@
   </a>
 </div>
 
-## 🛠️ Minhas Linguagens e Ferramentas
+## 🛠️ Linguagens e Ferramentas mais usadas:
 
 <div align="left">
   <a href="https://github.com/rolim8">
