@@ -21,7 +21,7 @@
   </a>
 </div>
 
-## 🛠️ Linguagens e Ferramentas mais usadas:
+## 🛠️ Linguagens e Ferramentas Mais Usadas
 
 <div align="left">
   <a href="https://github.com/rolim8">
@@ -41,7 +41,7 @@
   </a>
 </div>
 
-## 🧩 Tecnologias e Ferramentas
+## 🧩 Tecnologias e Ferramentas em Aprendizado
 
 - **Front-end**: HTML5, CSS3, JavaScript, React
 - **Back-end**: Em aprendizado de Python e **Streamlit**.
