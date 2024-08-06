@@ -1,4 +1,7 @@
-### Olá, mundo! Me chamo Orlando 👋
+![Coding GIF](hello_world.gif)
+
+### Olá, mundo! Me chamo Orlando 👋!
+
 
 - 🔭 **Desenvolvedor Front-end** com experiência em criação de interfaces interativas e responsivas.
 - 🌱 Atualmente estou aprendendo **HTML5**, **CSS3** e **JavaScript**.
@@ -21,7 +24,7 @@
   </a>
 </div>
 
-## 🛠️ Linguagens e Ferramentas Mais Usadas
+## 🛠️ Linguagens e Ferramentas mais usadas
 
 <div align="left">
   <a href="https://github.com/rolim8">
@@ -41,7 +44,7 @@
   </a>
 </div>
 
-## 🧩 Tecnologias e Ferramentas em Aprendizado
+## 🧩 Tecnologias e Ferramentas em aprendizado
 
 - **Front-end**: HTML5, CSS3, JavaScript, React
 - **Back-end**: Em aprendizado de Python e **Streamlit**.
