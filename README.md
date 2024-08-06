@@ -1,10 +1,10 @@
 ### Olá, mundo! Me chamo Orlando 👋
 
 - 🔭 **Desenvolvedor Front-end** com experiência em criação de interfaces interativas e responsivas.
-- 🌱 Atualmente estou aprendendo **HTML5**, **CSS** e **JavaScript**.
+- 🌱 Atualmente estou aprendendo **HTML5**, **CSS3** e **JavaScript**.
 - 😄 Pronomes: **Ele/Dele**.
 
-## Contate-me
+## Contate-me 📬
 
 <div>
   <a href="https://www.youtube.com/channel/UCl7lDZiBckwvxw6OTkEW0wg" target="_blank">
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-## Minhas Linguagens e Ferramentas
+## 🛠️ Minhas Linguagens e Ferramentas
 
 <div align="left">
   <a href="https://github.com/rolim8">
@@ -29,11 +29,11 @@
   </a>
 </div>
 
-## Projetos Destacados
+## 🚀 Projetos Destacados
 
 - **[Gerador de Recibo](https://rolim8.github.io/Receipt-Generator-2.0/code/index.html)**: Um projeto para criar e imprimir recibos personalizados usando HTML, CSS e JavaScript.
 
-## Estatísticas
+## 📊 Estatísticas
 
 <div align="left">
   <a href="https://github.com/rolim8">
@@ -41,14 +41,18 @@
   </a>
 </div>
 
-## Tecnologias e Ferramentas
+## 🧩 Tecnologias e Ferramentas
 
-- **Front-end**: HTML+CSS+JavaScript, React
-- **Back-end**: Em aprendizado de frameworks como Django e da linguagem de programação Python.
+- **Front-end**: HTML5, CSS3, JavaScript, React
+- **Back-end**: Em aprendizado de Python e **Streamlit**.
 - **Ferramentas**: Git, GitHub, Visual Studio Code, Blender e Construct
 
-## Código Aberto
+## 📝 Código Aberto
 
 Os projetos apresentados neste perfil são **código aberto** e estão disponíveis para qualquer um editar e adaptar conforme necessário. No entanto, peço que, ao usar ou modificar o código, você mantenha a autoria e credite adequadamente o trabalho original. 
 
 **Se você copiar ou usar o código, por favor, mencione a fonte original.**
+
+---
+
+⭐ **Se você gostou do meu perfil, não se esqueça de me seguir no GitHub!** ⭐
