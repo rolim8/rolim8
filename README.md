@@ -1,7 +1,6 @@
 ![Coding GIF](hello_world.gif)
 
-### Olá, mundo! Me chamo Orlando <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f609.gif" style="width: 25px;">!
-
+### Olá, mundo! Me chamo Orlando <img src="blink.gif" style="width: 25px;">!
 
 - 🔭 **Desenvolvedor Front-end** com experiência em criação de interfaces interativas e responsivas.
 - 🌱 Atualmente estou aprendendo **HTML5**, **CSS3** e **JavaScript**.
