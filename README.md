@@ -43,9 +43,9 @@
 
 ## Tecnologias e Ferramentas
 
-- **Front-end**: HTML, CSS, JavaScript, React, Vue.js
-- **Back-end**: Em aprendizado de frameworks como Django e Web2Py
-- **Ferramentas**: Git, GitHub, Visual Studio Code, Chrome DevTools
+- **Front-end**: HTML+CSS+JavaScript, React
+- **Back-end**: Em aprendizado de frameworks como Django e da linguagem de programação Python.
+- **Ferramentas**: Git, GitHub, Visual Studio Code, Blender e Construct
 
 ## Código Aberto
 
