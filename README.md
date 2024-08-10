@@ -1,7 +1,7 @@
 ![Coding GIF](hello_world.gif)
 ### Olá, mundo! Me chamo Orlando <img src="blink.gif" style="width: 25px;">!
 
-- 🔭 **Desenvolvedor Front-end** com experiência em criação de interfaces interativas e responsivas.
+- 🔭 **Desenvolvedor Front-end**
 - 🌱 Atualmente estou aprendendo **HTML5**, **CSS3** e **JavaScript**.
 - 😄 Pronomes: **Ele/Dele**.
 
