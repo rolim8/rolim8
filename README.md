@@ -45,8 +45,8 @@
 ## 🧩 Tecnologias e Ferramentas em aprendizado
 
 - **Front-end**: HTML5, CSS3, JavaScript, React
-- **Back-end**: Em aprendizado de Python e **Streamlit**.
-- **Ferramentas**: Git, GitHub, Visual Studio Code, Blender e Construct
+- **Back-end**: Em aprendizado de Python e Streamlit.
+- **Ferramentas**: Git, GitHub, Visual Studio Code, Blender e Construct3
 
 ## 📝 Código Aberto
 
