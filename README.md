@@ -33,7 +33,7 @@
 
 - **[Gerador de Recibo](https://rolim8.github.io/Receipt-Generator-2.0/code/index.html)**: Um projeto para criar e imprimir recibos personalizados usando HTML, CSS e JavaScript.
   
-- **[DinTetris](rolim8.github.io/DinTetris/)**: Um clone do Tetris desenvolvido com HTML, CSS, JavaScript. Este projeto inclui um modo escuro, um sistema de pontuação, e um visual único com peças coloridas e uma sombra para cada peça que está caindo.
+- **[DinTetris](https://rolim8.github.io/DinTetris/)**: Um clone do Tetris desenvolvido com HTML, CSS, JavaScript. Este projeto inclui um modo escuro, um sistema de pontuação, e um visual único com peças coloridas e uma sombra para cada peça que está caindo.
 
 
 ## 📊 Estatísticas
