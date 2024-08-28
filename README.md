@@ -35,6 +35,8 @@
   
 - **[DinTetris](https://rolim8.github.io/DinTetris/)**: Um clone do Tetris desenvolvido com HTML, CSS, JavaScript. Este projeto inclui um modo escuro, um sistema de pontuação, e um visual único com peças coloridas e uma sombra para cada peça que está caindo.
 
+- **[Gerenciador de Saída de Estoque](https://rolim8.github.io/Gerenciador_Estoque/)**: Um clone do Tetris desenvolvido com HTML, CSS, JavaScript. Este projeto inclui um modo escuro, um sistema de pontuação, e um visual único com peças coloridas e uma sombra para cada peça que está caindo.
+
 
 ## 📊 Estatísticas
 
