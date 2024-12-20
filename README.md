@@ -33,10 +33,11 @@
 
 - **[Gerador de Recibo](https://rolim8.github.io/Receipt-Generator-2.0/code/index.html)**: Um projeto para criar e imprimir recibos personalizados usando HTML, CSS e JavaScript.
   
-- **[DinTetris](https://rolim8.github.io/DinTetris/)**: Um clone do Tetris desenvolvido com HTML, CSS, JavaScript. Este projeto inclui um modo escuro, um sistema de pontuação, e um visual único com peças coloridas e uma sombra para cada peça que está caindo.
+- **[DinTetris](https://rolim8.github.io/DinTetris/)**: Um clone do Tetris desenvolvido com HTML, CSS, JavaScript.
 
-- **[Gerenciador de Saída de Estoque](https://rolim8.github.io/Gerenciador_Estoque/)**: Um clone do Tetris desenvolvido com HTML, CSS, JavaScript. Este projeto inclui um modo escuro, um sistema de pontuação, e um visual único com peças coloridas e uma sombra para cada peça que está caindo.
+- **[Gerenciador de Saída de Estoque](https://rolim8.github.io/Gerenciador_Estoque/)**: Uma aplicação web simples que ajuda o gerenciamento da saída de equipamentos.
 
+- **[Roleta Selecionadora de Nomes](https://rolim8.github.io/Wheel-Name-Selector/code/)**: Uma aplicação web simples que permite aos usuários adicionar nomes a uma roleta e girá-la para selecionar aleatoriamente um vencedor.
 
 ## 📊 Estatísticas
 
