@@ -1,8 +1,15 @@
-### Olá, mundo! Me chamo Orlando <img src="blink.gif" style="width: 25px;">!
+# Olá, mundo! Me chamo Orlando <img src="blink.gif" style="width: 25px;">!
 
 - 🔭 **Desenvolvedor Front-end**
 - 🌱 Atualmente estou aprendendo **HTML5**, **CSS3** e **JavaScript**.
 - 😄 Pronomes: **Ele/Dele**.
+
+## 🌐 Acesse Meu Currículo Online
+
+Confira meu currículo online para mais detalhes sobre minhas habilidades, experiências e projetos:  
+[https://rolim8.github.io/Curriculo/](https://rolim8.github.io/Curriculo/)
+
+---
 
 ## Contate-me 📬
 
@@ -21,6 +28,8 @@
   </a>
 </div>
 
+---
+
 ## 🛠️ Linguagens e Ferramentas mais usadas
 
 <div align="left">
@@ -28,6 +37,8 @@
     <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolim8&layout=compact&langs_count=7&theme=dracula" alt="Top Languages">
   </a>
 </div>
+
+---
 
 ## 🚀 Projetos Destacados
 
@@ -39,6 +50,8 @@
 
 - **[Roleta Selecionadora de Nomes](https://rolim8.github.io/Wheel-Name-Selector/code/)**: Uma aplicação web simples que permite aos usuários adicionar nomes a uma roleta e girá-la para selecionar aleatoriamente um vencedor.
 
+---
+
 ## 📊 Estatísticas
 
 <div align="left">
@@ -47,11 +60,15 @@
   </a>
 </div>
 
+---
+
 ## 🧩 Tecnologias e Ferramentas em aprendizado
 
 - **Front-end**: HTML5, CSS3, JavaScript, React
 - **Back-end**: Em aprendizado de Python e Streamlit.
 - **Ferramentas**: Git, GitHub, Visual Studio Code, Blender e Construct3
+
+---
 
 ## 📝 Código Aberto
 
