@@ -40,28 +40,6 @@ Confira meu currículo online para mais detalhes sobre minhas habilidades, exper
 
 ---
 
-## 🚀 Projetos Destacados
-
-- **[Gerador de Recibo](https://rolim8.github.io/Receipt-Generator-2.0/code/index.html)**: Um projeto para criar e imprimir recibos personalizados usando HTML, CSS e JavaScript.
-  
-- **[DinTetris](https://rolim8.github.io/DinTetris/)**: Um clone do Tetris desenvolvido com HTML, CSS, JavaScript.
-
-- **[Gerenciador de Saída de Estoque](https://rolim8.github.io/Gerenciador_Estoque/)**: Uma aplicação web simples que ajuda o gerenciamento da saída de equipamentos.
-
-- **[Roleta Selecionadora de Nomes](https://rolim8.github.io/Wheel-Name-Selector/code/)**: Uma aplicação web simples que permite aos usuários adicionar nomes a uma roleta e girá-la para selecionar aleatoriamente um vencedor.
-
----
-
-## 📊 Estatísticas
-
-<div align="left">
-  <a href="https://github.com/rolim8">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=rolim8&show_icons=true&theme=dracula" alt="GitHub Stats">
-  </a>
-</div>
-
----
-
 ## 🧩 Tecnologias e Ferramentas em aprendizado
 
 - **Front-end**: HTML5, CSS3, JavaScript, React
