@@ -44,7 +44,16 @@ Confira meu currículo online para mais detalhes sobre minhas habilidades, exper
 
 - **Front-end**: HTML5, CSS3, JavaScript, React
 - **Back-end**: Em aprendizado de Python e Streamlit.
-- **Ferramentas**: Git, GitHub, Visual Studio Code, Blender e Construct3
+- **Ferramentas**: Git, GitHub, Visual Studio Code, Blender.
+- **Game Dev**: Godot, Unity.
+
+---
+
+## 🎮 Curiosidades sobre mim
+
+- Sou apaixonado por **Game Dev**, interfaces e desenvolvimento web
+- Gosto de desafios criativos e estou sempre aberto a aprender coisas novas.  
+- Quando não estou trabalhando ou programando, provavelmente estou no Football Manager📋⚽.  
 
 ---
 
